@@ -1,0 +1,371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"transl",
+				"transtlation"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"_",
+				"_margin"
+			],
+			[
+				"MIME",
+				"MIMEBase"
+			],
+			[
+				"na",
+				"namesfilename"
+			],
+			[
+				"MIM",
+				"MIMEText"
+			],
+			[
+				"from",
+				"fromaddr"
+			],
+			[
+				"doc",
+				"doc_browns_wheels"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "chart.html",
+			"settings":
+			{
+				"buffer_size": 528,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Ewan/AppData/Roaming/Sublime Text 2/Packages/CoffeeScript/CoffeeScript.sublime-build",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Cakefile",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/CoffeeScript/CoffeeScript.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"coffe",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"coffee",
+				"Coffee: Compile File"
+			],
+			[
+				"emmet ",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emmet",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ewan/dev/coffeescript/reusable charts/Cakefile",
+		"/C/Users/Ewan/dev/coffeescript/reusable charts/reusable-charts.sublime-project",
+		"/C/Users/Ewan/dev/coffeescript/reusable charts/src/chart.coffee",
+		"/C/Users/Ewan/dev/coffeescript/reusable charts/chart.js",
+		"/C/Users/Ewan/dev/coffeescript/reusable charts/chart.css",
+		"/C/Users/Ewan/dev/coffeescript/reusable charts/chart.coffee",
+		"/C/Users/Ewan/dev/coffeescript/reusable charts/time-series-chart.js",
+		"/C/Users/Ewan/dev/coffeescript/reusable charts/base.coffee",
+		"/C/Users/Ewan/dev/python/wedding invites/template4.html",
+		"/C/Users/Ewan/dev/python/wedding invites/template1.html",
+		"/C/Users/Ewan/dev/python/wedding invites/template2.html",
+		"/C/Users/Ewan/dev/python/wedding invites/template3.html",
+		"/C/Users/Ewan/dev/python/wedding invites/names.csv",
+		"/C/Users/Ewan/dev/python/wedding invites/sendmail.py",
+		"/C/Users/Ewan/dev/python/wedding invites/names - Sheet1.csv",
+		"/C/Users/Ewan/dev/coffeescript/reusable charts/README.md",
+		"/C/Users/Ewan/dev/coffeescript/reusable charts/chart.html",
+		"/C/Users/Ewan/dev/coffeescript/reusable charts/server.py",
+		"/C/Users/Ewan/dev/coffeescript/reusable charts/scatter.coffee",
+		"/C/Users/Ewan/dev/python/wedding invites/template3",
+		"/C/Users/Ewan/dev/python/wedding invites/templatemaker.py",
+		"/C/Users/Ewan/dev/python/wedding invites/template1",
+		"/C/Users/Ewan/dev/python/wedding invites/template.html",
+		"/C/Program Files/Scribus 1.4.2/share/doc/en/readme-win32.html",
+		"/C/Users/Ewan/dev/coffeescript/treehouse/testing.coffee",
+		"/C/Users/Ewan/dev/coffeescript/treehouse/testing.js",
+		"/C/Users/Ewan/dev/coffeescript/treehouse/src/testing.coffee",
+		"/C/Users/Ewan/dev/coffeescript/treehouse/src/Cakefile",
+		"/C/Users/Ewan/dev/coffeescript/treehouse/src/ca",
+		"/C/Users/Ewan/dev/coffeescript/treehouse/Cakefile"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"postdraw",
+			"scatter",
+			"chart",
+			"Chart",
+			"needed",
+			"selection",
+			"_radius",
+			"radius",
+			"30",
+			"10",
+			"MyChart",
+			"class",
+			"2",
+			"1",
+			"chart",
+			"console.log",
+			"template4",
+			"left",
+			"bottom",
+			"_margintop",
+			"margintop",
+			"names.length",
+			"len(names)",
+			"toaddr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"right",
+			"left"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "chart.html",
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Ewan/AppData/Roaming/Sublime Text 2/Packages/CoffeeScript/CoffeeScript.sublime-build",
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Cakefile",
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 163.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
