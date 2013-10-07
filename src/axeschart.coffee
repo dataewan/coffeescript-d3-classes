@@ -177,7 +177,7 @@ class BubblePlot extends AxesChart
 		@_maxpointsize = maxpointsize
 
 	predraw: () ->
-		extent = d3.extent(_.pluck data, "z")
+		extent = d3.extent(_.pluck @data(), "z")
 		@radiusscale = d3.scale.linear()
 							.domain(extent)
 							.range([5, @_maxpointsize])
